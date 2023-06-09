@@ -1,0 +1,17 @@
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\bin\Debug\netstandard2.0\App_Xamarin.deps.json
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\bin\Debug\netstandard2.0\App_Xamarin.dll
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\bin\Debug\netstandard2.0\App_Xamarin.pdb
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App_Xamarin.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App_Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App_Xamarin.AssemblyInfoInputs.cache
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App_Xamarin.AssemblyInfo.cs
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App_Xamarin.dll
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\refint\App_Xamarin.dll
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\App_Xamarin.pdb
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\ref\App_Xamarin.dll
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\ParouImpar.xaml.g.cs
+C:\Users\mhgir\source\repos\App_Xamarin\App_Xamarin\App_Xamarin\obj\Debug\netstandard2.0\Page1.xaml.g.cs
